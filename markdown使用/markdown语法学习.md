@@ -160,7 +160,7 @@ def main():
 使用 html 插入图片并约束大小
 
 <div  align="center"> 
-<img src="./pic/576999.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="https://github.com/pandali1/DataWhale_Project_Learning/blob/main/markdown%E4%BD%BF%E7%94%A8/pic/576999.png" width = "300" height = "200" alt="图片名称" align=center />
 </div>
 
 # 10 html
